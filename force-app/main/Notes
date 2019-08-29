@@ -1,0 +1,7 @@
+Apex Tests
+-Since data created in tests do not commit, you will note need to 
+delete any data.
+-Lines of code in test methods and test classes are not counted as part of
+calculating Apex code coverage.
+-- Code coverage is calculated by dividing the number of unique Apex code
+lines executed during test method execution by the total number of Apex code lines
